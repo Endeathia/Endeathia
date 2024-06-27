@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tamer a Technical Support Engineer<br>I'm currently working on a personal DevOps Projects 
+Hi, I'm Tamer a Technical Support Engineer<br>I'm currently working on a personal DevOps / Software Projects 
 
 
 ## 🌐 Socials:
