@@ -1,6 +1,8 @@
 # 💫 About Me:
-Hi, I'm Tamer a Technical Support Engineer<br>I'm currently working on a personal DevOps / Software Projects 
-
+Hi, I'm Tamer a Technical Support Engineer and DevOps enthusiast. 
+<br>I'm working on improving my DevOps skills to find my first position in IT / DevOps / SRE.
+I have created several DevOps projects, learned the whole workflow, and gained expertise with DevOps methodologies. 
+The DevOps field interests me as it includes work in the software development life cycle and contains Automation and programming skills, this makes me more excited to work in this field.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Tamer Jjeney) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Tamer Jjeney) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tamer Jjeney) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xay_siel) 
